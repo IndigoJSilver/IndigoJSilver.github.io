@@ -13,6 +13,8 @@ permalink: /about/
 
 
 ### Introduce
-> Hello, welcome to my github
-> You can see my directory directly
-> Thank you
+> Hello, welcome to my github.
+
+> You can see my directory directly.
+
+> Thank you.
