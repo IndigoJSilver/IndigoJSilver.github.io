@@ -1,11 +1,11 @@
 ---
 layout: post
-title: post-sample
+title: post
 date: 2020-01-02 19:20:23 +0900
 category: sample
 ---
-# post-sample
-> Hello!
+# Hello
+> This is my page
 
 This is code
 ```ruby
