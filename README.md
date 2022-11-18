@@ -9,10 +9,10 @@ permalink: /about/
 
 ### Features
 - Pukyong University
-- Computer engineering
+- Computer Engineering
 
 
-### _config.yml
+<!-- ### _config.yml
 > Code block will look like this.
 ```yml
 highlighter-theme: monokai //you can change your syntax color scheme.
@@ -27,4 +27,4 @@ date_format: "%Y-%M-%D" //and date format.
 #### Page - Mobile
 ![alt text](/public/img/screenshot-m1.png)
 #### Page - Articles
-![alt text](/public/img/screenshot-m2.png)
+![alt text](/public/img/screenshot-m2.png) -->
