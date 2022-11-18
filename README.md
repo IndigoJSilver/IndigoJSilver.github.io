@@ -4,16 +4,13 @@ title: About
 permalink: /about/
 ---
 
-## Theme Monos
-> Simple and lightweight theme for Jekyll
+## Author
+> Nam Ji Eun
 
 ### Features
-- Responsive.
-- Syntax Highlight
-- Most optimized theme for tech blog.
-- Lightweight with minimum stylesheet.
-- Easy to customize.
-- Offers category menu.
+- Pukyong University
+- Computer engineering
+
 
 ### _config.yml
 > Code block will look like this.
